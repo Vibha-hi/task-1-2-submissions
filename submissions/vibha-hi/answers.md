@@ -6,7 +6,7 @@ Roll_no="16010125137"
 branch="Comps"
 mail= "vibha.mehtani@somaiya.edu"
 phone= "7400317241"
-remarks= "couldnt get past level 11 for now, but got to learn a lot and enjoyed "
+remarks= "Submissions for task 1-2 week 0"
 #enter anything you want to add
 
 echo $name " | " $Roll_no " | " $branch " | " $remarks
